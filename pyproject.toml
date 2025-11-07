@@ -1,5 +1,5 @@
 [project]
-name = "mcp-caiyun-weather"
+name = "iflow-mcp-caiyun-weather"
 version = "0.1.0"
 description = "Caiyun Weather MCP Server"
 readme = "README.md"
@@ -27,7 +27,7 @@ Homepage = "https://github.com/caiyunapp/mcp-caiyun-weather"
 Issues = "https://github.com/caiyunapp/mcp-caiyun-weather/issues"
 
 [project.scripts]
-mcp-caiyun-weather = "mcp_caiyun_weather:main"
+iflow-mcp-caiyun-weather = "mcp_caiyun_weather:main"
 
 [build-system]
 requires = ["hatchling"]
